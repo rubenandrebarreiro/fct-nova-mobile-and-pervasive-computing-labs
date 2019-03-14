@@ -1,1 +1,1 @@
-# fct-nova-mobile-and-pervasive-computing-labs
+# FCT NOVA - Mobile and Pervasive Computing Labs
