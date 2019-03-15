@@ -18,7 +18,8 @@
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-ubiquitous&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-hardware&nbsp;devices-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/)
 
-[![software used no. 1](https://img.shields.io/badge/software-arduino&nbsp;ide-gold.svg)](https://www.jetbrains.com/clion/)
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/)
+[![software used no. 1](https://img.shields.io/badge/software-arduino&nbsp;ide-gold.svg)](https://www.arduino.cc/en/main/software)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=fct-nova-mobile-and-pervasive-computing-labs&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=fct-nova-mobile-and-pervasive-computing-labs&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/fork)
@@ -32,7 +33,7 @@
 
 ## Description
 
-> A [**_1rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_MSc. degree of Informatics and Computing Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Mobile and Pervasive Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8299). This projects was built using [**_Arduino IDE_**](https://www.arduino.cc/en/main/software). This repository it's based in some _practical lab exercises and examples_ related with [**_Mobile and Pervasive Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8299), among many others!
+> A [**_1rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_MSc. degree of Informatics and Computing Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Mobile and Pervasive Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8299). This projects was built using [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/) and [**_Arduino IDE_**](https://www.arduino.cc/en/main/software). This repository it's based in some _practical lab exercises and examples_ related with [**_Mobile and Pervasive Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8299), among many others!
 
 ## Screenshots
 
@@ -79,6 +80,7 @@ git clone git@github.com:rubenandrebarreiro/fct-nova-mobile-and-pervasive-comput
 ```
 
 ## Built with
+* [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/)
 * [**_Arduino IDE_**](https://www.arduino.cc/en/main/software)
 
 ## Contributors
