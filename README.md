@@ -18,9 +18,7 @@
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-ubiquitous&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-hardware&nbsp;devices-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/)
 
-[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-java-red.svg)](http://www.cplusplus.com/) 
-[![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-cuda-red.svg)](https://developer.nvidia.com/cuda-zone) 
-[![software used no. 1](https://img.shields.io/badge/software-jetbrains&nbsp;clion-gold.svg)](https://www.jetbrains.com/clion/)
+[![software used no. 1](https://img.shields.io/badge/software-arduino&nbsp;ide-gold.svg)](https://www.jetbrains.com/clion/)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=fct-nova-mobile-and-pervasive-computing-labs&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=fct-nova-mobile-and-pervasive-computing-labs&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/fork)
