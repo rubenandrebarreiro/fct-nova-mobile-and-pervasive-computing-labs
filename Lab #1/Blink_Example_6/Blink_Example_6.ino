@@ -43,9 +43,9 @@ void setup() {
 void loop() {
   // this loop processes just make the LED blink (turn ON and OFF), between intervals of 500 milliseconds
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  Serial.println(LED_BUILTIN);       // print in Serial Console (in 9600 baud data rate) the current status of the OUTPUT
+  Serial.println(LED_BUILTIN);       // print in Serial Console (in 9600 baud data rate) the current status of the LED_BUILTIN
   delay(500);                        // wait for 500 milliseconds
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  Serial.println(LED_BUILTIN);       // print in Serial Console (in 9600 baud data rate) the current status of the OUTPUT
+  Serial.println(LED_BUILTIN);       // print in Serial Console (in 9600 baud data rate) the current status of the LED_BUILTIN
   delay(500);                        // wait for 500 milliseconds
 }
