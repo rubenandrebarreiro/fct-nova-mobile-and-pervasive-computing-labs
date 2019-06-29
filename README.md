@@ -37,12 +37,12 @@
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/screenshot-1.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/JPGs/screenshot-1.jpg)
 ######  Mobile and Pervasive Computing Labs (FCT NOVA) - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/screenshot-2.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/master/imgs/JPGs/screenshot-2.jpg)
 ######  Mobile and Pervasive Computing Labs (FCT NOVA) - Screenshot #2
 
 ***
