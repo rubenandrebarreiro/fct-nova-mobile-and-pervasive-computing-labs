@@ -28,7 +28,7 @@
 
 ##### Current Progress of the Project
 
-[![current progress of this project](http://progressed.io/bar/20?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/) 
+[![current progress of this project](http://progressed.io/bar/100?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/fct-nova-mobile-and-pervasive-computing-labs/) 
 
 
 ## Description
