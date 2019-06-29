@@ -1,4 +1,4 @@
-/*
+/**
  * A simple test for the Buzzer component, with some musical notes to play.
  * 
  * Adapted for the Pratical Labs (Lab #3 - March 28, 2019) of:
