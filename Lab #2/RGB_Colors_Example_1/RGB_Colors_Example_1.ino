@@ -29,7 +29,7 @@
 
   Version 2.0 6/2012 MDG
 
-  Adapted for the Pratical Labs (Lab #1 - March 14, 2019) of:
+  Adapted for the Pratical Labs (Lab #2 - March 21, 2019) of:
   - Mobile and Pervasive Computing
     @ FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)
 
